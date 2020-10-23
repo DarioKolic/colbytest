@@ -1,0 +1,35 @@
+.img {
+  width: 75%;
+}
+
+.hbv-info {
+  border: 1px solid black;
+}
+
+.h-fixed {
+  height: 150px;
+  font-size: 1.5em;
+  color: #ffffff;
+}
+
+.p-bot {
+  font-size: 0.7em;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.container-fluid {
+  width: 100%;
+  padding: 0;
+}
+
+div.jumbotron {
+  min-height: 0.8em;
+  height: 3em;
+  border-radius: 0;
+  padding: 0;
+}
+
+.nav-link {
+  color: rgb(0, 0, 0) !important;
+}
